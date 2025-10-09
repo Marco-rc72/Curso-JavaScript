@@ -1,7 +1,7 @@
 
 
 const miModulo = (() => {
-    'use strict'
+    'use strict';
 
 
 
