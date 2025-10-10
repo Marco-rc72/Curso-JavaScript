@@ -7,7 +7,7 @@
  */
 
 
-export const valorCarta = ( carta ) => {
+export const valorCarta = ( carta) => {
 
     const valor = carta.substring(0, carta.length - 1);
     return ( isNaN( valor ) ) ? 
